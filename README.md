@@ -1,1 +1,1 @@
-# Practico-experimental
+Estructura app
